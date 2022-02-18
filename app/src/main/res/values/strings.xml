@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rach Tr</string>
+    <string name="login">Login</string>
+    <string name="welcome_message">Welcome Message</string>
+    <string name="name">Name</string>
+
+    <string-array name="u_type">
+        <item>Executive</item>
+        <item>HOD</item>
+        <item>Manager</item>
+    </string-array>
+</resources>
